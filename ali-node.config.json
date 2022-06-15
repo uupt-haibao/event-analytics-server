@@ -1,0 +1,6 @@
+{
+    "appid": "123",
+    "secret": "xxx",
+    "logdir": "/tmp/event-server",
+    "packages": "~/sqxy/event-analytics-server/package.json"
+}
